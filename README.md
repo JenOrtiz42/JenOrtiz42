@@ -1,6 +1,8 @@
 ## Why, hello there!
 
-I'm currently working on **Starter Up**, an Android dough app that I designed, wrote, and even named with the assistance of AI. I previously had 0 Android knowledge. That's changed. Check out the repository for more about my experience.
+I'm currently working on **Starter Up**, an Android dough app that I designed, wrote, and even named with the assistance of AI. I previously had 0 Android knowledge. That's changed. Go to the repository for my comments about the experience.
+
+Get in touch with me at JenOrtiz42@gmail.com
 
 <!--
 **JenOrtiz42/JenOrtiz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
