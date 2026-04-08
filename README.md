@@ -1,6 +1,6 @@
 ## Why, hello there!
 
-I'm currently working on **Starter Up**, an Android dough app that I designed, wrote, and even named with the assistance of AI. I previously had 0 Android knowledge. That's changed. See my comments about the experience in the repository.
+I'm currently working on a personal project, **Starter Up**, an Android dough app that I designed, wrote, and even named with the assistance of AI. I previously had no Android knowledge. That's changed. See my comments about the experience in the repository.
 
 Get in touch with me at JenOrtiz42@gmail.com
 
